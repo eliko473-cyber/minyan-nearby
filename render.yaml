@@ -1,0 +1,6 @@
+services:
+  - type: web
+    runtime: static
+    name: minyan-nearby
+    buildCommand: ""
+    staticPublishPath: .
